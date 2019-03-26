@@ -38,3 +38,4 @@ Carthage/Build
 report.xml
 fastlane/test_output
 fastlane/build_output
+/Freddy.xcodeproj/project.xcworkspace/xcshareddata
